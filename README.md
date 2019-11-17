@@ -1,1 +1,1 @@
-# mars-solar-energy-sherpatt-rover
+# Mars Solar Energy Calculations for SherpaTT
